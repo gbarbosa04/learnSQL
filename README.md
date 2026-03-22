@@ -1,2 +1,2 @@
 # learnSQL
-Aprendendo SQL com I.A.
+Aprendendo SQL com I.A dentro do database sakila;
